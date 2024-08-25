@@ -58,8 +58,8 @@ mind-lake-sdk-typescript
 Full doc: [https://mind-network.gitbook.io/mind-lake-sdk](https://mind-network.gitbook.io/mind-lake-sdk) 
 
 ## Authors
-* Joshua [@JoshuaW55818202](https://twitter.com/JoshuaW55818202)
-* Lee [@LeeTan853917](https://twitter.com/LeeTan853917)
+* Joshua [@JoshuaW55818202](https://x.com/JoshuaW55818202)
+* Lee [@LeeTan853917](https://x.com/LeeTan853917)
 
 ## Version History
 
