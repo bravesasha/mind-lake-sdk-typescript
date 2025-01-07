@@ -58,8 +58,8 @@ mind-lake-sdk-typescript
 Full doc: [https://mind-network.gitbook.io/mind-lake-sdk](https://mind-network.gitbook.io/mind-lake-sdk) 
 
 ## Authors
-* Joshua [@JoshuaW55818202](https://twitter.com/JoshuaW55818202)
-* Lee [@LeeTan853917](https://twitter.com/LeeTan853917)
+* Joshua Wang [@JoshuaW55818202](https://x.com/JoshuaW55818202)
+* Lee Tan [@LeeTan853917](https://x.com/LeeTan853917)
 
 ## Version History
 
@@ -83,4 +83,4 @@ Full doc: [https://mind-network.gitbook.io/mind-lake-sdk](https://mind-network.g
     * Support clerk          
 ## License
 
-This project is licensed under the [MIT] License - see the LICENSE.md file for details
+This project is licensed under the [MIT License](https://github.com/mind-network/mind-lake-sdk-typescript/blob/main/LICENSE) - see the LICENSE.md file for details
