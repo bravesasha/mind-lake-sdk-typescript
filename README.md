@@ -83,4 +83,4 @@ Full doc: [https://mind-network.gitbook.io/mind-lake-sdk](https://mind-network.g
     * Support clerk          
 ## License
 
-This project is licensed under the [MIT License](https://github.com/mind-network/mind-lake-sdk-typescript/blob/main/LICENSE) - see the LICENSE.md file for details
+This project is licensed under the [MIT License](https://github.com/mind-network/mind-lake-sdk-typescript/blob/main/LICENSE)
